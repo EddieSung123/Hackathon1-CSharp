@@ -1,0 +1,10 @@
+C:\buildschool\黑客松\生命靈數\生命靈數\bin\Debug\生命靈數.exe.config
+C:\buildschool\黑客松\生命靈數\生命靈數\bin\Debug\生命靈數.exe
+C:\buildschool\黑客松\生命靈數\生命靈數\bin\Debug\生命靈數.pdb
+C:\buildschool\黑客松\生命靈數\生命靈數\obj\Debug\生命靈數.csprojResolveAssemblyReference.cache
+C:\buildschool\黑客松\生命靈數\生命靈數\obj\Debug\生命靈數.Form1.resources
+C:\buildschool\黑客松\生命靈數\生命靈數\obj\Debug\生命靈數.Properties.Resources.resources
+C:\buildschool\黑客松\生命靈數\生命靈數\obj\Debug\生命靈數.csproj.GenerateResource.Cache
+C:\buildschool\黑客松\生命靈數\生命靈數\obj\Debug\生命靈數.csproj.CoreCompileInputs.cache
+C:\buildschool\黑客松\生命靈數\生命靈數\obj\Debug\生命靈數.exe
+C:\buildschool\黑客松\生命靈數\生命靈數\obj\Debug\生命靈數.pdb
