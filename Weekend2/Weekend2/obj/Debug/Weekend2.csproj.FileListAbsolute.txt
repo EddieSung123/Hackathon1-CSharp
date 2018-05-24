@@ -1,0 +1,10 @@
+C:\buildschool-C#\黑客松\Weekend2\Weekend2\bin\Debug\Weekend2.exe.config
+C:\buildschool-C#\黑客松\Weekend2\Weekend2\bin\Debug\Weekend2.exe
+C:\buildschool-C#\黑客松\Weekend2\Weekend2\bin\Debug\Weekend2.pdb
+C:\buildschool-C#\黑客松\Weekend2\Weekend2\obj\Debug\Weekend2.csprojAssemblyReference.cache
+C:\buildschool-C#\黑客松\Weekend2\Weekend2\obj\Debug\Weekend2.Form1.resources
+C:\buildschool-C#\黑客松\Weekend2\Weekend2\obj\Debug\Weekend2.Properties.Resources.resources
+C:\buildschool-C#\黑客松\Weekend2\Weekend2\obj\Debug\Weekend2.csproj.GenerateResource.cache
+C:\buildschool-C#\黑客松\Weekend2\Weekend2\obj\Debug\Weekend2.csproj.CoreCompileInputs.cache
+C:\buildschool-C#\黑客松\Weekend2\Weekend2\obj\Debug\Weekend2.exe
+C:\buildschool-C#\黑客松\Weekend2\Weekend2\obj\Debug\Weekend2.pdb
