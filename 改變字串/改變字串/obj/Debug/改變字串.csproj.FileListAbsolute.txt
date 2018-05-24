@@ -1,0 +1,14 @@
+C:\buildschool\黑克松\改變字串\改變字串\bin\Debug\改變字串.exe.config
+C:\buildschool\黑克松\改變字串\改變字串\bin\Debug\改變字串.exe
+C:\buildschool\黑克松\改變字串\改變字串\bin\Debug\改變字串.pdb
+C:\buildschool\黑克松\改變字串\改變字串\obj\Debug\改變字串.csprojResolveAssemblyReference.cache
+C:\buildschool\黑克松\改變字串\改變字串\obj\Debug\改變字串.csproj.CoreCompileInputs.cache
+C:\buildschool\黑克松\改變字串\改變字串\obj\Debug\改變字串.exe
+C:\buildschool\黑克松\改變字串\改變字串\obj\Debug\改變字串.pdb
+C:\buildschool\黑客松\改變字串\改變字串\bin\Debug\改變字串.exe.config
+C:\buildschool\黑客松\改變字串\改變字串\bin\Debug\改變字串.exe
+C:\buildschool\黑客松\改變字串\改變字串\bin\Debug\改變字串.pdb
+C:\buildschool\黑客松\改變字串\改變字串\obj\Debug\改變字串.csprojResolveAssemblyReference.cache
+C:\buildschool\黑客松\改變字串\改變字串\obj\Debug\改變字串.csproj.CoreCompileInputs.cache
+C:\buildschool\黑客松\改變字串\改變字串\obj\Debug\改變字串.exe
+C:\buildschool\黑客松\改變字串\改變字串\obj\Debug\改變字串.pdb
