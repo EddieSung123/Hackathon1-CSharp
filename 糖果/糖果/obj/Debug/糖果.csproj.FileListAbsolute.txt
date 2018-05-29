@@ -1,0 +1,14 @@
+C:\buildschool\黑克松\糖果\糖果\bin\Debug\糖果.exe.config
+C:\buildschool\黑克松\糖果\糖果\bin\Debug\糖果.exe
+C:\buildschool\黑克松\糖果\糖果\bin\Debug\糖果.pdb
+C:\buildschool\黑克松\糖果\糖果\obj\Debug\糖果.csprojResolveAssemblyReference.cache
+C:\buildschool\黑克松\糖果\糖果\obj\Debug\糖果.csproj.CoreCompileInputs.cache
+C:\buildschool\黑克松\糖果\糖果\obj\Debug\糖果.exe
+C:\buildschool\黑克松\糖果\糖果\obj\Debug\糖果.pdb
+C:\buildschool\黑客松\糖果\糖果\obj\Debug\糖果.csprojResolveAssemblyReference.cache
+C:\buildschool\黑客松\糖果\糖果\obj\Debug\糖果.csproj.CoreCompileInputs.cache
+C:\buildschool\黑客松\糖果\糖果\obj\Debug\糖果.exe
+C:\buildschool\黑客松\糖果\糖果\obj\Debug\糖果.pdb
+C:\buildschool\黑客松\糖果\糖果\bin\Debug\糖果.exe.config
+C:\buildschool\黑客松\糖果\糖果\bin\Debug\糖果.exe
+C:\buildschool\黑客松\糖果\糖果\bin\Debug\糖果.pdb
